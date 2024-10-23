@@ -60,4 +60,4 @@ Nota: Linguagens que estou estudando ou na faculdade ou por fora dela.
 
 [![Linkedin](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-henrique-7684661a5/)]([(https://www.linkedin.com/in/gustavo-henrique-7684661a5/)])
 [![Gmail Badge](https://img.shields.io/badge/-gustavobispocosta5521@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavobispocosta5521@gmail.com)](mailto:gustavobispocosta5521@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=GuGuzin14&style=social)](GuGuzin14)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=GuGuzin14&style=social)](https://github.com/GuGuzin14)
