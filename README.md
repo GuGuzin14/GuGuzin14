@@ -8,28 +8,30 @@
 
 ## Minhas Habilidades
 
-**Linguagens com um pequeno dominio**
+**Mais dominio**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 
-Nota: não sei tudo sobre, mas sempre estudando para aperfeiçoar.
+Nota: Não sei tudo sobre, mas sempre estudando para aperfeiçoar.
 
-**Linguagens em Estudo**
+**em Estudo**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![MongoDB](https://img.shields.io/badge/MongoDB-333333.svg?style=flat&logo=mongodb&logoColor=007396)
 
-Nota: Linguagens que estou estudando ou na faculdade ou por fora dela. 
+Nota: Estou estudando ou na faculdade ou por fora dela. 
 
 
 
 **Linguagens já vistas**
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-333333?logo=c-sharp&logoColor=00599C&style=flat)
 ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=007396)
 ![Blade](https://img.shields.io/badge/-Blade-333333?style=flat&logo=Blade&logoColor=007396)
 ![Vue](https://img.shields.io/badge/Vue-333333?style=flat&logo=vuedotjs&logoColor=007396)
@@ -37,6 +39,11 @@ Nota: Linguagens que estou estudando ou na faculdade ou por fora dela.
 **FrameWworks já vistos**
 
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=007396)
+
+**Banco de Dados já vistos**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-333333.svg?style=flat&logo=mongodb&logoColor=007396)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **DevOps**
 
