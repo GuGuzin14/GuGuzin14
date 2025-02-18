@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {Analise e Desenvolvimento de Sistemas} na {Fatec - Presidente Prudente}.
+- 🎓 Estudando Analise e Desenvolvimento de Sistemas na Fatec - Presidente Prudente.
 - 🌆 Sou de Narandiba-SP
 
 ## Minhas Habilidades
@@ -22,7 +22,8 @@ Nota: Não sei tudo sobre, mas sempre estudando para aperfeiçoar.
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![MongoDB](https://img.shields.io/badge/MongoDB-333333.svg?style=flat&logo=mongodb&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
 
 Nota: Estou estudando ou na faculdade ou por fora dela. 
 
@@ -55,6 +56,7 @@ Nota: Estou estudando ou na faculdade ou por fora dela.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
 
 
 <br/>
