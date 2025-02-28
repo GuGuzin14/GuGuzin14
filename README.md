@@ -35,11 +35,11 @@ Nota: Estou estudando ou na faculdade ou por fora dela.
 ![C#](https://img.shields.io/badge/C%23-333333?logo=c-sharp&logoColor=00599C&style=flat)
 ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=007396)
 ![Blade](https://img.shields.io/badge/-Blade-333333?style=flat&logo=Blade&logoColor=007396)
-![Vue](https://img.shields.io/badge/Vue-333333?style=flat&logo=vuedotjs&logoColor=007396)
 
 **FrameWworks já vistos**
 
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=007396)
+![Vue](https://img.shields.io/badge/Vue-333333?style=flat&logo=vuedotjs&logoColor=007396)
 
 **Banco de Dados já vistos**
 
