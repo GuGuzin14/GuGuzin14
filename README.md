@@ -49,6 +49,7 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure&logoColor=007ACC)
 
 
 ## Onde me encontrar
