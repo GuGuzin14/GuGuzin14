@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=GuGuzin&color=006bed)
 
 ## Sobre mim
 
