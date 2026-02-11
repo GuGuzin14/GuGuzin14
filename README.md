@@ -20,8 +20,8 @@
 **Linguagens já vistas**
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/C%23-333333?logo=c-sharp&logoColor=00599C&style=flat)
-![Blade](https://img.shields.io/badge/-Blade-333333?style=flat&logo=Blade&logoColor=007396)
+![C#](https://img.shields.io/badge/C#23-333333?logo=c-sharp&logoColor=00599C&style=flat)
+
 
 **FrameWorks já vistos**
 
