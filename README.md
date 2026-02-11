@@ -36,6 +36,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333.svg?style=flat&logo=mongodb&logoColor=007396)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
 **DevOps**
 
