@@ -1,7 +1,7 @@
 
 ## Sobre mim
 
-- 😎 Desenvolvedor BackEnd.
+- 😎 Desenvolvedor FullStack.
 - 🎓 Técnologo em Analise e Desenvolvimento de Sistemas na Fatec - Presidente Prudente.
 - 🌆 Sou de Narandiba-SP
 
@@ -14,9 +14,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
 **Linguagens já vistas**
 
@@ -31,6 +31,7 @@
 ![React](https://img.shields.io/badge/React-333333?style=flat&logo=Reactjs&logoColor=007396)
 ![Express](https://img.shields.io/badge/Express-333333?style=flat&logo=Express&logoColor=007396)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=007396)
+![NestJS](https://img.shields.io/badge/Nestjs-333333?style=flat&logo=Nestjs&logoColor=007396)
 
 
 **Banco de Dados já vistos**
@@ -46,7 +47,7 @@
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
