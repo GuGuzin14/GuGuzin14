@@ -1,61 +1,120 @@
+<h1 align="center">Olá 👋, eu sou Gustavo Henrique</h1>
 
-## Sobre mim
+<h3 align="center">
+💻 Desenvolvedor Full Stack apaixonado por tecnologia e desenvolvimento de software.
+</h3>
 
-- 😎 Desenvolvedor FullStack.
-- 🎓 Técnologo em Analise e Desenvolvimento de Sistemas na Fatec - Presidente Prudente.
-- 🌆 Sou de Narandiba-SP
+<p align="center">
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - FATEC Presidente Prudente
+<br>
+📍 Narandiba - SP | Brasil
+</p>
 
-## Minhas Habilidades
+---
 
-**Mais dominio**
+# 🚀 Tecnologias
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+## 💻 Linguagens
 
-**Linguagens já vistas**
+<p> 
+  
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/C%23-333333?logo=c-sharp&logoColor=00599C&style=flat)
+</p>
 
+---
 
-**FrameWorks já vistos**
+## ⚙️ Frameworks
 
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=007396)
-![Vue](https://img.shields.io/badge/Vue-333333?style=flat&logo=vuedotjs&logoColor=007396)
-![React](https://img.shields.io/badge/React-333333?style=flat&logo=Reactjs&logoColor=007396)
-![Express](https://img.shields.io/badge/Express-333333?style=flat&logo=Express&logoColor=007396)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=007396)
-![NestJS](https://img.shields.io/badge/Nestjs-333333?style=flat&logo=Nestjs&logoColor=007396)
+<p>
 
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-**Banco de Dados já vistos**
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-333333.svg?style=flat&logo=mongodb&logoColor=007396)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+---
 
-**DevOps**
+## 🗄️ Banco de Dados
 
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<p>
 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-**Ferramentas de desenvolvimento**
+</p>
 
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure&logoColor=007ACC)
+---
 
+## ☁️ DevOps
 
-## Onde me encontrar
+<p>
 
-[![Linkedin](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/gustavohenrique5521)
-[![Gmail Badge](https://img.shields.io/badge/-gustavobispocosta5521@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavobispocosta5521@gmail.com)](mailto:gustavobispocosta5521@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/GuGuzin14?label=GuGuzin14&style=social)](https://github.com/GuGuzin14)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+</p>
+
+---
+
+## 🛠️ Ferramentas
+
+<p>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+
+</p>
+
+---
+
+# 📈 Gráfico de Atividade
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuGuzin14&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📫 Onde me encontrar
+
+<p>
+
+<a href="https://www.linkedin.com/in/gustavohenrique5521">
+<img src="https://img.shields.io/badge/LinkedIn-Gustavo_Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gustavobispocosta5521@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-gustavobispocosta5521%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/GuGuzin14">
+<img src="https://img.shields.io/badge/GitHub-GuGuzin14-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=GuGuzin14&style=for-the-badge"/>
+
+</p>
