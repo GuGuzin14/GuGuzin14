@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Gustavo Henrique</h1>
+<h1 align="center">Olá, eu sou Gustavo Henrique</h1>
 
 <h3 align="center">
 💻 Desenvolvedor Full Stack apaixonado por tecnologia e desenvolvimento de software.
@@ -86,16 +86,6 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-
-</p>
-
----
-
-# 📈 Gráfico de Atividade
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuGuzin14&theme=tokyo-night"/>
 
 </p>
 
